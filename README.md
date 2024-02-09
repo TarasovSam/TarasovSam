@@ -1,5 +1,5 @@
 # Hi, I'm Semyon 👋
-Java Developer with about 1,5-2 yearы of commertial experience. I have knowledge in backend development on Java. In general worked with microservice arthitectures.
+Java Developer with about 3 years of commertial experience. I have knowledge in backend development on Java. In general worked with microservice arthitectures.
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=TarasovSam&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=TarasovSam&show_icons=true&count_private=true" /></a>
@@ -10,10 +10,14 @@ Java Developer with about 1,5-2 yearы of commertial experience. I have knowledg
 </p>
 
 ## 🛠 Technical Stack
-*   Java/C++
-*   Spring Boot, Spring Frameworks (Spring MVC, Spring Data Jpa, Spring Jdbc template and so on)
-*   MySQL, PostgreSQL
+*   Java, SQL, Kotlin
+*   Spring boot, Spring framework (includes MVC, Security, Data JDBC/JPA, Cloud)
+*   PostgreSQL, MySQL, MongoDB
 *   GitHub, GitLab
+*   Maven, Gradle
+*   Docker, Swagger / OpenApi, Jenkins, OKD, Jmix;
+*   Confluence, Jira
+*   KeyCloak, Minio, Apache POI, JasperReports.
 
 ### My opensource projects
 
