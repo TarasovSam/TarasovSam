@@ -7,6 +7,8 @@ Java Developer with about 3 years of commertial experience. I have knowledge in 
  </p>
 
   📫  How to reach me: <a href='mailto:tarasovsamuel@gmail.com'>tarasovsamuel@gmail.com</a>
+</p>
+</p>
   🪁  My Telegram: <a href='https://t.me/TarasovSam'>@TarasovSam</a>
 </p>
 
